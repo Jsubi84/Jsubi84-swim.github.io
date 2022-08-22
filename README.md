@@ -1,2 +1,2 @@
-# Jsubi84-swim.github.io
+# https://jsubi84.github.io/swim/
 Web in GitHub Pages
